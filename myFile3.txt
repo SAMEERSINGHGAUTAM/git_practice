@@ -1,0 +1,11 @@
+git commands
+git init -> to initialise a repo in git.
+ls-a -> to see the hidden files.
+git add file_name -> to add files to the staging area.
+git commit -m "message" -> to save the file in the history of the repository in git.
+git stash -> to save the file in the git repository but not as a history in the git repository.
+git status -> to see any untracked files and staged files.
+git log -> to see all the previous commits in a paticular git repository.
+git diff- to check the differences in the current file and the file saved perviously in the git repository.
+git tag -a V1 - to tag a version to paticular commit.
+
